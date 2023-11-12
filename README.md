@@ -1,10 +1,6 @@
 # ola mundo
 
-asfdlkjsafdkasljsf **dlkjfskldaj** sfadklsafj
+asfdlkjsafdkasljsfdlkjfskldajsfadklsafj
 asfdfdasdasfd
-
-- asfçlsdksfajs
-- aslfjksdljdfa
-- ajfldskjalskafd
 
 ## Licença senhor
